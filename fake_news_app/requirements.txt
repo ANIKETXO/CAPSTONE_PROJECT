@@ -2,4 +2,6 @@ flask==2.3.3
 scikit-learn
 joblib
 pandas
-numpy 
+numpy
+nltk
+html2pdf.js 
